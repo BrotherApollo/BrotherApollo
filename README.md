@@ -5,3 +5,4 @@ Data scientist and full-stack developer building ML pipelines and analytics plat
 - Full-stack analytics platform (Angular/FastAPI/PostgreSQL)
 - Homelab running Elastic Stack, n8n, and Jupyter notebooks
 - Game development with Godot
+- tinker with microcontrollers to build small hardware project (arduino, C++)
